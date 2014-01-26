@@ -1,0 +1,49 @@
+E:\Documents\rolie\bin\Debug\Saint Andrews Payroll System.exe.config
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmAboutBox1.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryRecord.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmAdvance.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmAdvanceEntryReport.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmAttendance.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmAttendanceReport.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmChangePassword.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentReport.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployeeReport.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmOverTimeReport.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmSalarySlipsReport.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmDeductionEntryRecord.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployeeAttendanceRecord.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployeePayment.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployeePaymentRecord1.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployeesRecord1.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmEmployee_registration.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmPasswordRecovery.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmlogin.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmMainMenu.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.Resources.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmpayroll_splash.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmSalarySlip.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmSearchByOverTime.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.frmSystemInfo.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll Manager.vbproj.GenerateResource.Cache
+E:\Documents\rolie\obj\x86\Debug\Payroll Manager.vbprojResolveAssemblyReference.cache
+E:\Documents\rolie\bin\Debug\Saint Andrews Payroll System.exe
+E:\Documents\rolie\bin\Debug\Saint Andrews Payroll System.pdb
+E:\Documents\rolie\bin\Debug\Saint Andrews Payroll System.xml
+E:\Documents\rolie\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Documents\rolie\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Documents\rolie\bin\Debug\Interop.VBIDE.dll
+E:\Documents\rolie\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\Documents\rolie\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Documents\rolie\obj\x86\Debug\Interop.VBIDE.dll
+E:\Documents\rolie\obj\x86\Debug\Payroll Manager.vbproj.ResolveComReference.cache
+E:\Documents\rolie\obj\x86\Debug\Saint Andrews Payroll System.exe
+E:\Documents\rolie\obj\x86\Debug\Saint Andrews Payroll System.xml
+E:\Documents\rolie\obj\x86\Debug\Saint Andrews Payroll System.pdb
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.ServerConnect.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.BiometricsScan.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.ReaderSelect.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.Capabilities.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.EnrollmentControl.resources
+E:\Documents\rolie\obj\x86\Debug\Payroll_Manager.Salary_Summary.resources
